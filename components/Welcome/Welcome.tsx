@@ -6,7 +6,7 @@ export function Welcome() {
 
   return (
     <>
-      <Title className={classes.title} align="center" mt={100}>
+      <Title className='title' align="center" mt={100}>
         Welcome to{' '}
         <Text inherit variant="gradient" component="span">
           Mantine
